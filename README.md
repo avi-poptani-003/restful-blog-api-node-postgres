@@ -25,8 +25,8 @@ A robust RESTful API built with Express.js and PostgreSQL, providing CRUD operat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/express-pg-api.git
-   cd express-pg-api
+   git clone https://github.com/avi-poptani-003/restful-blog-api-node-postgres.git
+   
    ```
 
 2. Install dependencies:
